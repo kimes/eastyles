@@ -51,6 +51,20 @@
         <item name="android:background">@color/red20</item>
     </style>
 
+    <style name="EasyAF.TableTextStyle">
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">@dimen/textMedium</item>
+    </style>
+
+    <style name="EasyAF.TableTextStyle.Header">
+        <item name="android:padding">10dp</item>
+        <item name="android:background">@drawable/bg_table_header</item>
+    </style>
+
+    <style name="EasyAF.TableTextStyle.Title">
+        <item name="android:fontFamily">@font/poppins_semibold</item>
+    </style>
+
     <style name="EasyAF.EditTextStyle">
         <item name="android:paddingTop">10dp</item>
         <item name="android:paddingBottom">10dp</item>
@@ -138,6 +152,10 @@
     <style name="EasyAF.SpinnerStyle">
         <item name="android:spinnerMode">dropdown</item>
         <item name="android:background">@drawable/bg_spinner</item>
+    </style>
+
+    <style name="EasyAF.SpinnerStyle.Secondary">
+        <item name="android:background">@drawable/bg_spinner_secondary</item>
     </style>
 
     <style name="EasyAF.CheckBoxStyle">

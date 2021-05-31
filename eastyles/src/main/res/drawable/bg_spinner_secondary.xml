@@ -4,7 +4,8 @@
         <layer-list>
             <item>
                 <shape android:shape="rectangle">
-                    <solid android:color="@color/gray50" />
+                    <corners android:radius="@dimen/radiusSmall" />
+                    <solid android:color="@color/white" />
                 </shape>
             </item>
             <item android:right="10dp"
@@ -18,7 +19,8 @@
         <layer-list>
             <item>
                 <shape android:shape="rectangle">
-                    <solid android:color="@color/white" />
+                    <corners android:radius="@dimen/radiusSmall" />
+                    <solid android:color="@color/gray50" />
                 </shape>
             </item>
             <item android:right="10dp"
@@ -31,7 +33,8 @@
         <layer-list>
             <item>
                 <shape android:shape="rectangle">
-                    <solid android:color="@color/white" />
+                    <corners android:radius="@dimen/radiusSmall" />
+                    <solid android:color="@color/gray20" />
                 </shape>
             </item>
             <item android:right="10dp"
