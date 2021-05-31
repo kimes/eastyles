@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="EasyAF">
+        <item name="android:textSize">@dimen/textMedium</item>
+        <item name="android:textColor">@color/gray80</item>
+        <item name="android:textFontWeight">400</item>
+        <item name="android:fontFamily">@font/poppins</item>
+    </style>
+
+    <style name="EasyAF.TextStyle.Title">
+        <item name="android:textSize">@dimen/textXLarge</item>
+        <item name="android:textFontWeight">600</item>
+    </style>
+
+    <style name="EasyAF.TextStyle.Error">
+        <item name="android:textColor">@color/red20</item>
+        <item name="android:textSize">@dimen/textMedium</item>
+        <item name="android:textFontWeight">600</item>
+    </style>
+
+    <style name="EasyAF.TextStyle.Success">
+        <item name="android:textColor">@color/green10</item>
+        <item name="android:textSize">@dimen/textMedium</item>
+        <item name="android:fontFamily">600</item>
+    </style>
+</resources>
