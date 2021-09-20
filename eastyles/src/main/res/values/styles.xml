@@ -158,6 +158,14 @@
         <item name="android:background">@drawable/bg_spinner_secondary</item>
     </style>
 
+    <style name="EasyAF.SpinnerStyle.Round">
+        <item name="android:background">@drawable/bg_spinner_round</item>
+    </style>
+
+    <style name="EasyAF.SpinnerStyle.Round.Secondary">
+        <item name="android:background">@drawable/bg_spinner_round_secondary</item>
+    </style>
+
     <style name="EasyAF.CheckBoxStyle">
         <item name="android:textSize">@dimen/textMedium</item>
         <item name="android:textColor">@drawable/cs_cb</item>
