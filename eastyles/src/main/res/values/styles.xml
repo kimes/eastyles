@@ -8,20 +8,44 @@
     </style>
 
     <style name="EasyAF.TextStyle">
-        <item name="android:textSize">@dimen/textLarge</item>
+        <item name="android:textSize">@dimen/textXSmall</item>
     </style>
 
     <style name="EasyAF.TextStyle.Small">
-        <item name="android:textSize">@dimen/textMedium</item>
+        <item name="android:textSize">@dimen/textSmall</item>
     </style>
 
     <style name="EasyAF.TextStyle.Medium">
+        <item name="android:textSize">@dimen/textMedium</item>
+    </style>
+
+    <style name="EasyAF.TextStyle.Large">
+        <item name="android:textSize">@dimen/textLarge</item>
+    </style>
+
+    <style name="EasyAF.TextStyle.XLarge">
         <item name="android:textSize">@dimen/textXLarge</item>
     </style>
 
     <style name="EasyAF.TextStyle.Title">
-        <item name="android:textSize">@dimen/textXLarge</item>
+        <item name="android:textSize">@dimen/textXSmall</item>
         <item name="android:fontFamily">@font/poppins_semibold</item>
+    </style>
+
+    <style name="EasyAF.TextStyle.Title.Small">
+        <item name="android:textSize">@dimen/textSmall</item>
+    </style>
+
+    <style name="EasyAF.TextStyle.Title.Medium">
+        <item name="android:textSize">@dimen/textMedium</item>
+    </style>
+
+    <style name="EasyAF.TextStyle.Title.Large">
+        <item name="android:textSize">@dimen/textLarge</item>
+    </style>
+
+    <style name="EasyAF.TextStyle.Title.XLarge">
+        <item name="android:textSize">@dimen/textXLarge</item>
     </style>
 
     <style name="EasyAF.TextStyle.Error">

@@ -9,7 +9,7 @@
     </style>
 
     <style name="EasyAF.TextStyle.Title">
-        <item name="android:textSize">@dimen/textXLarge</item>
+        <item name="android:textSize">@dimen/textXSmall</item>
         <item name="android:textFontWeight">600</item>
     </style>
 
