@@ -15,11 +15,11 @@
     <dimen name="textXLarge">24sp</dimen>
     <dimen name="textXXLarge">32sp</dimen>
     <dimen name="textXXXLarge">72sp</dimen> -->
-    <dimen name="textXSmall">7.4sp</dimen>
-    <dimen name="textSmall">10.8sp</dimen>
-    <dimen name="textMedium">13.7sp</dimen>
-    <dimen name="textLarge">18.1sp</dimen>
-    <dimen name="textXLarge">24sp</dimen>
+    <dimen name="textXSmall">7.35sp</dimen>
+    <dimen name="textSmall">9.8sp</dimen>
+    <dimen name="textMedium">14.7sp</dimen>
+    <dimen name="textLarge">19.6sp</dimen>
+    <dimen name="textXLarge">22.06sp</dimen>
 
     <dimen name="switchTrackWidth">60dp</dimen>
     <dimen name="switchTrackHeight">30dp</dimen>
