@@ -96,6 +96,7 @@
         <item name="android:paddingStart">8dp</item>
         <item name="android:paddingEnd">8dp</item>
         <item name="android:gravity">center</item>
+        <item name="android:textSize">@dimen/textMedium</item>
         <item name="android:textColorHint">@color/gray50</item>
         <item name="android:textColor">@color/black</item>
         <item name="android:background">@drawable/bg_et</item>
@@ -120,6 +121,7 @@
     <style name="EasyAF.ButtonStyle">
         <item name="android:textAllCaps">false</item>
         <item name="android:background">@drawable/bg_btn</item>
+        <item name="android:textSize">@dimen/textSmall</item>
         <item name="android:textColor">@drawable/cs_btn</item>
         <item name="android:stateListAnimator">@animator/btn_anim</item>
     </style>
